@@ -31,6 +31,7 @@ public class PixelPropsUtils {
 
     private static final Map<String, Object> propsToChange;
     private static final Map<String, Object> propsToChangePixelXL;
+    private static final Map<String, Object> propsToChangePixel3XL;
 
     private static final String[] packagesToChange = {
         "com.google.android.ext.services",
